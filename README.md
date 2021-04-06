@@ -1,3 +1,5 @@
+Este eh um programa para saber qual lesma venceu e qual seu nível de acordo com sua velocidade
+	
 	# # 
 	algoritmo
 	declare ql, vlm, vl numerico
