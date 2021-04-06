@@ -1,9 +1,10 @@
-# # algoritmo
-declare ql, vlm, vl numerico
-vlm <- 1
-escreva "Digite o número de Lesmas:"
-leia ql
-enquanto ql <> 0 faca
+	# # 
+	algoritmo
+	declare ql, vlm, vl numerico
+	vlm <- 1
+	escreva "Digite o número de Lesmas:"
+	leia ql
+	enquanto ql <> 0 faca
 	inicio
 		se ql >= 1 e ql <= 20 entao
 			inicio
@@ -67,4 +68,4 @@ enquanto ql <> 0 faca
 	inicio
 		escreva "Lesma de Nível 3!"
 	fim
-fim_algoritmo
+	fim_algoritmo
